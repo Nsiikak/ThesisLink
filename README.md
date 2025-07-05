@@ -159,6 +159,5 @@ Feel free to fork the repo, open an issue, or submit a pull request.
 **Let’s make finding the perfect supervisor faster, smarter, and stress-free.**
 Happy automating! 🚀
 
-```
 
 
