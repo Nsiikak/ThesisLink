@@ -37,7 +37,7 @@ As a First-Class Computer Science graduate deeply focused on AI and automation, 
 ## ⚙️ Tech Stack
 
 - **Frontend:** React.js + TailwindCSS  
-- **Backend:** Python FastAPI or Django REST (compatible with both)  
+- **Backend:** Python FastAPI or Django REST 
 - **Database:** SQLite or PostgreSQL  
 - **Email Integration:** Gmail API (OAuth2), SendGrid, or secure SMTP  
 - **Scheduler:** Celery or custom cron jobs for follow-ups  
@@ -94,8 +94,8 @@ npm run dev
 
 ```
 ThesisLink/
- ├── frontend/      # React + TailwindCSS frontend
- ├── backend/       # FastAPI or Django backend
+ ├── frontend/      # React + TailwindCSS
+ ├── backend/       # FastAPI 
  ├── .env           # Environment configs
  ├── README.md
  ├── LICENSE
@@ -152,7 +152,7 @@ Feel free to fork the repo, open an issue, or submit a pull request.
 **Nsikak Ebong**
 📧 [nsikakebong98@gmail.com](mailto:nsikakebong98@gmail.com)
 🌐 [nsikakebong.com](https://nsikakebong.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/nsikakebong)
+🔗 [LinkedIn](https://www.linkedin.com/in/nsikak-abasi-ebong-78a0b1264)
 
 ---
 
